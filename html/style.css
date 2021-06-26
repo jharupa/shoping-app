@@ -25,3 +25,18 @@
     margin-top: 40px;
     margin-bottom: 4 0px;
 }
+
+.p-color-list {
+    width: 200px;
+    height: 3em;
+}
+
+.p-info .p-icon {
+    color: #000;
+    font-size: 24px;
+}
+
+.p-cart .cart-img {
+    height: 70px;
+    padding: 10px;
+}
